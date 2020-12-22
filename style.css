@@ -1,0 +1,87 @@
+import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@-ms-viewport{
+  width: device-width;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  background-color: #f4f6ff;
+}
+ header .img-fluid {
+  width:130px;
+  height:100px;
+  margin: 40px;
+}
+ header .a{
+  background-color: #206a5d;
+  width:100px;
+  height:40px;
+  margin: 55px;
+  float:right;
+  border-radius: 17px;
+  color:white;
+  border: none;
+  margin-right:170px;
+  text-decoration: none;
+  padding:10px;
+  text-align: center;
+}
+form.example input[type=text] {
+padding: 10px;
+font-size: 17px;
+border: 1px solid grey;
+float:right;
+width: 40%;
+margin-top: -130px;
+background: #f1f1f1;
+border-radius:10px;
+border:none;
+margin-right:-270px;
+height:40px;
+}
+
+form.example button {
+float:right;
+width: 15%;
+padding: 10px;
+background-color: #206a5d;
+color: white;
+font-size: 17px;
+margin-top: -130px;
+border: 1px solid grey;
+cursor: pointer;
+border-radius:10px;
+margin-left:-10px;
+border:none;
+margin-right: -300px;
+height:40px;
+}
+.intro{
+  margin: 40px;
+}
+.intro h1{
+  color:#206a5d;
+  font-weight: 700;
+  font-size: 50px;
+
+}
+
+.intro p{
+  font-size: 25px;
+}
+.quote{
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+}
+.intro img{
+  width:430px;
+  height:400px;
+  float: right;
+  margin-top: -230px;
+  margin-right: 70px;
+}
